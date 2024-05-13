@@ -12,3 +12,7 @@ public:
 	void cetakData();
 	void isiData();
 };
+
+angka::angka(int i) {
+
+}
