@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "staticfunction", "staticfun
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "constructor", "constructor\constructor.vcxproj", "{EC6A9269-5B22-4199-A5F9-685E733FA211}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChainFunction", "ChainFunction\ChainFunction.vcxproj", "{119ED085-E8CF-4428-A624-0C7CD012FF1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{EC6A9269-5B22-4199-A5F9-685E733FA211}.Release|x64.Build.0 = Release|x64
 		{EC6A9269-5B22-4199-A5F9-685E733FA211}.Release|x86.ActiveCfg = Release|Win32
 		{EC6A9269-5B22-4199-A5F9-685E733FA211}.Release|x86.Build.0 = Release|Win32
+		{119ED085-E8CF-4428-A624-0C7CD012FF1F}.Debug|x64.ActiveCfg = Debug|x64
+		{119ED085-E8CF-4428-A624-0C7CD012FF1F}.Debug|x64.Build.0 = Debug|x64
+		{119ED085-E8CF-4428-A624-0C7CD012FF1F}.Debug|x86.ActiveCfg = Debug|Win32
+		{119ED085-E8CF-4428-A624-0C7CD012FF1F}.Debug|x86.Build.0 = Debug|Win32
+		{119ED085-E8CF-4428-A624-0C7CD012FF1F}.Release|x64.ActiveCfg = Release|x64
+		{119ED085-E8CF-4428-A624-0C7CD012FF1F}.Release|x64.Build.0 = Release|x64
+		{119ED085-E8CF-4428-A624-0C7CD012FF1F}.Release|x86.ActiveCfg = Release|Win32
+		{119ED085-E8CF-4428-A624-0C7CD012FF1F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
