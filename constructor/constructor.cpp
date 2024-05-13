@@ -1,9 +1,10 @@
 #include <iostream>
+#include <string>
 using namespace std;
 
 class Mahasiswa
 {
-public:
+private:
     int nim;
     string nama;
 
