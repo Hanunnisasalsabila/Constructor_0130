@@ -19,6 +19,7 @@ public:
     }
     Mahasiswa(string iNama)
     {
+        nim = 0;
         nama = iNama;
     }
     Mahasiswa(int iNim, string iNama)
@@ -35,5 +36,15 @@ public:
 
 int main()
 {
+    Mahasiswa mhs1;
+    Mahasiswa mhs2(130);
+    Mahasiswa mhs3("Hanun");
+    Mahasiswa mhs4(131,"Nisa");
 
+    mhs1.cetak();
+    mhs2.cetak();
+    mhs3.cetak();
+    mhs4.cetak();
+
+    return 0;
 }
