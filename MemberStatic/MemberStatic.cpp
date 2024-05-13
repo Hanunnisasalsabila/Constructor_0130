@@ -16,3 +16,5 @@ public:
 		setID();
 	}
 };
+
+int mahasiswa::nim = 10;
