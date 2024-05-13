@@ -38,3 +38,8 @@ void angka::isiData() {
 	}
 	cout << endl;
 }
+
+int main() {
+	angka belajarcpp(3);
+	
+}
